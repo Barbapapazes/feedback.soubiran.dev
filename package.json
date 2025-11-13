@@ -21,5 +21,6 @@
   },
   "devDependencies": {
     "taze": "^19.9.0"
-  }
+  },
+  "packageManager": "pnpm@10.20.0"
 }
