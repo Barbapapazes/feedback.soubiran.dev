@@ -1,0 +1,22 @@
+{
+  "data": {
+    "positive": {
+      "total": 74,
+      "percent": 58,
+      "breakdown": {
+        "Love it": 45,
+        "It's ok": 29
+      }
+    },
+    "negative": {
+      "total": 55,
+      "percent": 42,
+      "breakdown": {
+        "Not great": 30,
+        "Hate it": 25
+      }
+    },
+    "comments": 22,
+    "average_rating": 3.5
+  }
+}

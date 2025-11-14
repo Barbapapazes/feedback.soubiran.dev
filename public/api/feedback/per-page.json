@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "url": "/getting-started",
+      "positive": {
+        "total": 20,
+        "percent": 67,
+        "breakdown": {
+          "Love it": 12,
+          "It's ok": 8
+        }
+      },
+      "negative": {
+        "total": 10,
+        "percent": 33,
+        "breakdown": {
+          "Not great": 6,
+          "Hate it": 4
+        }
+      },
+      "comments": 5,
+      "average_rating": 4.0
+    },
+    {
+      "url": "/advanced-topics",
+      "positive": {
+        "total": 15,
+        "percent": 50,
+        "breakdown": {
+          "Love it": 7,
+          "It's ok": 8
+        }
+      },
+      "negative": {
+        "total": 15,
+        "percent": 50,
+        "breakdown": {
+          "Not great": 9,
+          "Hate it": 6
+        }
+      },
+      "comments": 4,
+      "average_rating": 3.0
+    },
+    {
+      "url": "/faq",
+      "positive": {
+        "total": 39,
+        "percent": 60,
+        "breakdown": {
+          "Love it": 26,
+          "It's ok": 13
+        }
+      },
+      "negative": {
+        "total": 30,
+        "percent": 40,
+        "breakdown": {
+          "Not great": 15,
+          "Hate it": 15
+        }
+      },
+      "comments": 13,
+      "average_rating": 3.5
+    }
+  ]
+}
